@@ -1,0 +1,17 @@
+{
+  "name": "Kidi",
+  "identifier": "com.kidi.source",
+  "apps": [
+    {
+      "name": "Kididudu Ultra",
+      "bundleIdentifier": "com.kidi.kididuduultra",
+      "developerName": "Ahmed",
+      "version": "1.0.0",
+      "versionDate": "2025-09-07",
+      "versionDescription": "A launcher built for kids: anime zones, cheat tools, sandboxing, and empowering UI.",
+      "downloadURL": "https://ahmed.github.io/kidi-source/kididudu.ipa",
+      "iconURL": "https://ahmed.github.io/kidi-source/icons/kididudu.png",
+      "tintColor": "#FF69B4"
+    }
+  ]
+}
